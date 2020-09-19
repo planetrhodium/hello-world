@@ -15,9 +15,13 @@ This is not your usual readme, but it is the inital readme needed to understand 
 
 I had the honor of working with Muhsinah learning music production where she said, 
   "That's organized! You're organized to me! We cancers stay organized, even if it's just a list! I love it!" - Muhsinah
+  
 BaaS Agency - Professional Development Community... a safe place to land. All the things you thought you'd get from a Recruitment Firm.. but so much more.
+
 Learning Community - Partnered with $TRY University!!! - "TRUE LEVEL, BITCH."
+
 Application - FileDir/Email/Office/API Process Integration
+
 VR Game Application - Womanifesto meets PlanetRhodium.
 
 Discography - Conceptualized Records
